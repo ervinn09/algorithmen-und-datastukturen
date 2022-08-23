@@ -1,8 +1,0 @@
-ervin09,  19.04.2021, 13:25:18, 174b1e154b9d96d341b6fa9d94d760e76e6a0a6c
-Korrektur Blatt 0
-
-Aufgabe 3.6
-	Test, ob Abgaben.txt ist vorhanden: 10/10
-Total points for Aufgabe 3.6: 10/10
-
-Total points: 10/10
