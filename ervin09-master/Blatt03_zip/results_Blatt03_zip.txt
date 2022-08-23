@@ -1,0 +1,24 @@
+ervin09,  10.06.2021, 10:56:25, zip submission
+Korrektur Blatt 3
+
+Aufgabe 4.1
+	Checks Implementation of testPermutation: 15/15
+	Checks Implementation of testPermutation: 10/10
+	Checks Implementation of testPermutation: 0/10
+	   java.lang.NullPointerException in PermutationTest.testPermutation(PermutationTest.java:31)
+Total points for Aufgabe 4.1: 25/35
+
+Aufgabe 4.2
+	Checks Implementation of testDerangements: 9/9
+	Checks Implementation of testDerangements: 9/9
+	Checks Implementation of testDerangements: 8/8
+	Checks Implementation of testDerangements: 9/9
+Total points for Aufgabe 4.2: 35/35
+
+Aufgabe 4.3
+	Checks Implementation of testsameElements: 15/15
+	Checks Implementation of testsameElements: 0/15
+	  java.lang.RuntimeException: Testcase 3: The test did not assert correctly, even though the elements are the same.
+Total points for Aufgabe 4.3: 15/30
+
+Total points: 75/100
